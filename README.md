@@ -59,5 +59,5 @@
 | ChatGPT for YouTube | Chrome 插件快速取得 Youtube 影片內容 | [URL](https://chatgpt4youtube.com/?ref=producthunt) | 免費 | ✅ | 中英文 |
 
 
-
-
+## 貢獻
+如果你發現一些很酷的服務，歡迎一起貢獻於這份文件中，可以參考這份 [指南](CONTRIBUTING.md)
