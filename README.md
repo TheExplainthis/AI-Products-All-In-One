@@ -28,7 +28,7 @@
 
 ### 文件處理
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | ChatExcel | 能夠匯入 Excel，並且利用 Prompt 直接編輯 Excel | [URL](https://chatexcel.com/) | 免費 | ✅ | 中英文 |
 | Excelformulabot | 利用 ChatGPT 生成 Excel 公式 | [URL](https://excelformulabot.com/) | 付費 | ✅ | 英文 |
 | 智能 PPT | 線上利用 ChatGPT 完成簡報 | [URL](https://aippt.wps.cn/welcome) | 免費 | ⛔️ | 中文 |
