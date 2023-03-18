@@ -4,15 +4,21 @@
 這個 Repository 整理了當前將 ChatGPT 產品化的服務，讓大家快速的使用！
 
 ## 更新
+* 2023-03-18 更新 8 項服務
 * 2023-03-17 更新 1 項服務
 * 2023-03-13 更新 11 項服務
 
-
 ### 求職面試
-| 名稱 | 說明 | 連結 | 費用 | Active |
-| --- | --- | --- | --- | --- |
-| ExplainThis | 履歷修改、Linkedin 簡介、面試問答、離職信、求職信生成 | [URL](https://www.explainthis.io/zh-hant/tools) | 免費 | ✅ |
-
+| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
+| --- | --- | --- | --- | --- | --- |
+| ResumeAI | 輸入經歷 (不限中英文)，精修出英文版本| [URL](https://www.explainthis.io/zh-hant/tools/resume-ai) | 免費 | ✅ | 中英文
+| BioGenAI  | 只需輸入基本資訊 (中英文皆可以)，就自動產出一段吸引人的英文 LinkedIn 個人簡介 | [URL](https://www.explainthis.io/zh-hant/tools/biogen-ai) | 免費 | ✅ | 中英文
+| BehavAI | 與面試專家精煉過的語句，根據你的經驗產生面試回答 | [URL](https://www.explainthis.io/zh-hant/tools/behav-ai) | 免費 | ✅ | 中英文 |
+| IntroAI | AI 生成面試時的自我介紹 | [URL](https://www.explainthis.io/zh-hant/tools/intro-ai) | 免費 | ✅ | 中英文 |
+| RecommAI | 只需輸入推薦要點，由 AI 直接幫你完成推薦信 | [URL](https://www.explainthis.io/zh-hant/tools/recomm-ai) | 免費 | ✅ | 中英文 |
+| CovLetterAI | 協助你客製化不同公司的求職信 | [URL](https://www.explainthis.io/zh-hant/tools/covletter-ai) | 免費 | ✅ | 中英文 |
+| ResignAI | 幫你寫出一封體面且不失專業的離職信 | [URL](https://www.explainthis.io/zh-hant/tools/resign-ai) | 免費 | ✅ | 中英文 |
+| CoffeeChatAI | 在 LinkedIn 上約人喝咖啡請教職涯問題、建立人脈的邀請訊息生成 | [URL](https://www.explainthis.io/zh-hant/tools/coffeechat-ai) | 免費 | ✅ | 中英文 |
 
 ### 社群軟體
 | 名稱 | 說明 | 連結 | 費用 | Active |
