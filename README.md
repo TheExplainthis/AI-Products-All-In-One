@@ -1,6 +1,4 @@
 # AI-Products-All-In-One
-中文 | [英文](RAEDME.en.md)
-
 這個 Repository 整理了當前將 ChatGPT 產品化的服務，讓大家快速的使用！
 
 
@@ -18,7 +16,6 @@
 | ChatExcel | 能夠匯入 Excel，並且利用 Prompt 直接編輯 Excel | [URL](https://chatexcel.com/) | 免費 | ✅ | 中文/英文 |
 | Excelformulabot | 利用 ChatGPT 生成 Excel 公式 | [URL](https://excelformulabot.com/) | 付費 | ✅ | 英文 |
 | ChatPDF | 快速總結 PDF 內容，並且可以再用指令與之對話 | [URL](https://www.chatpdf.com/?ref=futuretools.io) | 免費 | ✅ | 中文/英文 |
-| Beautiful.ai | 簡單輸入指令，即可生成圖文並茂的 PPT | [URL](http://beautiful.ai/) | 付費 | ✅ | 英文 |
 
 
 ### 工作優化
@@ -79,6 +76,7 @@
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | --- | --- | --- | --- | --- | --- |
 | Tome | 使用圖文生成出 PTT | [URL](https://beta.tome.app/) | 付費 | ✅ | 英文 |
+| Beautiful.ai | 簡單輸入指令，即可生成圖文並茂的 PPT | [URL](http://beautiful.ai/) | 付費 | ✅ | 英文 |
 | 智能 PPT | 線上利用 ChatGPT 完成簡報 | [URL](https://aippt.wps.cn/welcome) | 免費 | ⛔️ | 中文 |
 
 
