@@ -175,5 +175,10 @@
 * 2023-03-17 更新 1 項服務
 * 2023-03-13 更新 11 項服務
 
+## 支持我們
+如果你喜歡這個專案，願意[支持我們](https://www.buymeacoffee.com/explainthis)，可以請我們喝一杯咖啡，這會成為我們繼續前進的動力！
+
+[<a href="https://www.buymeacoffee.com/explainthis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/explainthis)
+
 ## 貢獻
 如果你發現一些很酷的服務，歡迎一起貢獻於這份文件中，可以參考這份 [指南](CONTRIBUTING.md)
