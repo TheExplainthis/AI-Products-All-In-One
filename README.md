@@ -41,6 +41,7 @@
 
 ### 工作優化
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
+| Writely | 在 Browser 上取代 Notion.ai 的工具 | [URL](https://github.com/anc95/writely) | 免費 | ✅ | 英文 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
 | Notion AI | 最完整的文字筆記 AI 工具 | [URL](https://affiliate.notion.so/pjib4ixelobm) | 免費/付費 | ✅ | 英文 |
 | 週報生成器 | 輸入完成的事項，自動產生週報 | [URL](https://weeklyreport.avemaria.fun/zh) | 免費 | ✅ | 中文 |
