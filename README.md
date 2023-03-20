@@ -49,6 +49,7 @@
 | mem | 自動化整合你所有的工具 | [URL](https://get.mem.ai/) | 免費/付費 | ✅ | 英文 |
 | Otter | 會議錄音、重點整理、自動生成逐字檔 | [URL](https://otter.ai/) | 免費/付費 | ✅ | 英文 |
 | genei | 是一提升生產力的工具，只需提出問題，Genei的AI 就能為用戶找到答案，還提供了 AI 強化的摘要和關鍵詞提取功能，幫助用戶更快地找到關鍵信息 | [URL](https://www.genei.io/) | 付費 | ✅ | 英文 |
+| Writely | 在 Browser 上取代 Notion.ai 的工具 | [URL](https://github.com/anc95/writely) | 免費 | ✅ | 英文 |
 
 
 ### Email 助手
@@ -69,7 +70,7 @@
 | CovLetterAI | 協助你客製化不同公司的求職信 | [URL](https://www.explainthis.io/zh-hant/tools/covletter-ai) | 免費 | ✅ | 中文/英文 |
 | ResignAI | 幫你寫出一封體面且不失專業的離職信 | [URL](https://www.explainthis.io/zh-hant/tools/resign-ai) | 免費 | ✅ | 中文/英文 |
 | CoffeeChatAI | 在 LinkedIn 上約人喝咖啡請教職涯問題、建立人脈的邀請訊息生成 | [URL](https://www.explainthis.io/zh-hant/tools/coffeechat-ai) | 免費 | ✅ | 中文/英文 |
-
+| HireBrain | 提供 Resume 的 Review 和 Scoring 服務 | [URL](https://hirebrain.song.work/) | 免費 | ✅ | 英文 |
 
 
 ### 寫作工具
@@ -119,6 +120,7 @@
 | AutoDraw | Autodraw 可以猜測使用者想要繪製的物體或形狀，從而讓使用者更快速地繪圖 | [URL](https://www.autodraw.com/) | 免費 | ✅ | 英文 |
 | Craiyon | 文字轉圖像工具 | [URL](https://www.craiyon.com/) | 免費/付費 | ✅ | 英文 |
 | Picso | 文字轉圖像工具，可以選擇繪畫風格 | [URL](https://picso.ai/) | 免費/付費 | ✅ | 英文 |
+| visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
 
 
 ### 影音生成
@@ -168,18 +170,22 @@
 | AI Query | 輸入簡單的指令，即可透過此工具幫你生成 SQL 語法 | [URL](https://aiquery.co/) | 免費/付費 | ✅ | 英文 |
 | ChatGPT for VSCode | 透過結合 VS Code 和 ChatGPT 的方式，使用者可以得到 AI 提供的程式設計指引，包括程式碼解釋、偵錯等功能 | [URL](https://github.com/mpociot/chatgpt-vscode) | 免費 | ✅ | 英文 |
 | Codeium | Codeium 自動化生成程式碼。它支援超過 40 種語言，且仍在不斷擴充中。 | [URL](https://codeium.com/) | 免費/付費 | ✅ | 英文 |
+| SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
 
 
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
 | Deep L | 準確即時的翻譯工具，目前支援 31 種語言 | [URL](https://www.deepl.com/translator) | 免費/付費 | ✅ | 中文/英文 |
+| openai-translator | 透過 OpenAI 的 GPT-3 模型，將輸入的文字翻譯成目標語言，支持 OCR 和跨平台（Mac、Windows、Linux、Chrome） | [URL](https://github.com/yetone/openai-translator) | 免費 | ✅ | 中文 |
+
 
 ### 學術研究
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
 | Elicit | Elicit 使用語言模型幫助您自動化研究工作流程，例如文獻回顧的部分。Elicit 可以在沒有完美關鍵詞匹配的情況下找到相關論文，總結與您問題相關的論文要點 | [URL](https://elicit.org/) | 免費 | ✅ | 英文 |
 | IRIS.ai | 用於處理用戶所有研究工作。智能搜索和多種智能篩選器、閱讀列表分析、自動生成摘要，以及自主提取和系統化數據。 | [URL](https://iris.ai/) | 付費 | ✅ | 英文 |
+| Perplexity.ai | Perplexity.ai 是一個基於 GPT-3 的 AI 工具，類似 New Bing 的搜尋引擎、會附上參考結果 | [URL](https://www.perplexity.ai/) | 免費 | ✅ | 英文 |
 
 
 ### 有趣應用
@@ -197,6 +203,7 @@
 
 
 ## 更新
+* 2023-03-20 更新 9 項服務
 * 2023-03-19 更新 63 項服務
 * 2023-03-18 更新 8 項服務
 * 2023-03-17 更新 1 項服務
