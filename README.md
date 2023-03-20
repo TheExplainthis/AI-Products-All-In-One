@@ -181,6 +181,7 @@
 | Deep L | 準確即時的翻譯工具，目前支援 31 種語言 | [URL](https://www.deepl.com/translator) | 免費/付費 | ✅ | 中文/英文 |
 
 ### 學術研究
+| ChatPDF | ChatPDF 是一個基於 GPT-3 的 AI 工具，上傳 PDF 文件後可以查詢 PDF 內容 | [URL](https://www.chatpdf.com/) | 免費/付費 | ✅ | 英文 |
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | Perplexity.ai | Perplexity.ai 是一個基於 GPT-3 的 AI 工具，類似 New Bing 的搜尋引擎、會附上參考結果 | [URL](https://www.perplexity.ai/) | 免費 | ✅ | 英文 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
