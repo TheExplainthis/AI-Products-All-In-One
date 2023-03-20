@@ -175,6 +175,7 @@
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| openai-translator | 透過 OpenAI 的 GPT-3 模型，將輸入的文字翻譯成目標語言，支持 OCR 和跨平台（Mac、Windows、Linux、Chrome） | [URL](https://github.com/yetone/openai-translator) | 免費 | ✅ | 中文 |
 | Deep L | 準確即時的翻譯工具，目前支援 31 種語言 | [URL](https://www.deepl.com/translator) | 免費/付費 | ✅ | 中文/英文 |
 
 ### 學術研究
