@@ -163,6 +163,7 @@
 ### 程式開發
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
 | GitHub Copilot | GitHub 和 OpenAI 合作開發的一個 AI 工具，幫助工程師快速產生編寫程式碼 | [URL](https://github.com/features/copilot/) | 付費 | ✅ | 英文 |
 | AI Query | 輸入簡單的指令，即可透過此工具幫你生成 SQL 語法 | [URL](https://aiquery.co/) | 免費/付費 | ✅ | 英文 |
 | ChatGPT for VSCode | 透過結合 VS Code 和 ChatGPT 的方式，使用者可以得到 AI 提供的程式設計指引，包括程式碼解釋、偵錯等功能 | [URL](https://github.com/mpociot/chatgpt-vscode) | 免費 | ✅ | 英文 |
