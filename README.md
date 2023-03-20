@@ -41,6 +41,7 @@
 
 ### 工作優化
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
+| Writely | 在 Browser 上取代 Notion.ai 的工具 | [URL](https://github.com/anc95/writely) | 免費 | ✅ | 英文 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
 | Notion AI | 最完整的文字筆記 AI 工具 | [URL](https://affiliate.notion.so/pjib4ixelobm) | 免費/付費 | ✅ | 英文 |
 | 週報生成器 | 輸入完成的事項，自動產生週報 | [URL](https://weeklyreport.avemaria.fun/zh) | 免費 | ✅ | 中文 |
@@ -60,6 +61,8 @@
 ### 求職面試
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | --- | --- | --- | --- | --- | --- |
+| HireBrain | 提供 Resume 的 Review 和 Scoring 服務 | [URL](https://hirebrain.song.work/) | 免費 | ✅ | 英文 |
+| explainthis 求職工具 | 基於 ChatGPT API 開發的 AI 求職工具，從簡歷到面試，讓找工作變十倍輕鬆 ResumeAI 簡歷修改| [URL](https://www.explainthis.io/zh-hans/tools) | 免費 | ✅ | 中文 |
 | ResumeAI | 輸入經歷 (不限中英文)，精修出英文版本| [URL](https://www.explainthis.io/zh-hant/tools/resume-ai) | 免費 | ✅ | 中文/英文
 | BioGenAI  | 只需輸入基本資訊 (中英文皆可以)，就自動產出一段吸引人的英文 LinkedIn 個人簡介 | [URL](https://www.explainthis.io/zh-hant/tools/biogen-ai) | 免費 | ✅ | 中文/英文
 | BehavAI | 與面試專家精煉過的語句，根據你的經驗產生面試回答 | [URL](https://www.explainthis.io/zh-hant/tools/behav-ai) | 免費 | ✅ | 中文/英文 |
@@ -113,6 +116,7 @@
 ### 圖像生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
 | neural.love | 文字轉圖片工具，還提供影片和照片優化 | [URL](https://neural.love/) | 免費/付費 | ✅ | 英文 |
 | Midjourney | 輸入文字生成圖片 | [URL](https://www.midjourney.com/) | 免費/付費 | ✅ | 英文 |
 | AutoDraw | Autodraw 可以猜測使用者想要繪製的物體或形狀，從而讓使用者更快速地繪圖 | [URL](https://www.autodraw.com/) | 免費 | ✅ | 英文 |
@@ -163,6 +167,7 @@
 ### 程式開發
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
 | GitHub Copilot | GitHub 和 OpenAI 合作開發的一個 AI 工具，幫助工程師快速產生編寫程式碼 | [URL](https://github.com/features/copilot/) | 付費 | ✅ | 英文 |
 | AI Query | 輸入簡單的指令，即可透過此工具幫你生成 SQL 語法 | [URL](https://aiquery.co/) | 免費/付費 | ✅ | 英文 |
 | ChatGPT for VSCode | 透過結合 VS Code 和 ChatGPT 的方式，使用者可以得到 AI 提供的程式設計指引，包括程式碼解釋、偵錯等功能 | [URL](https://github.com/mpociot/chatgpt-vscode) | 免費 | ✅ | 英文 |
@@ -172,10 +177,13 @@
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| openai-translator | 透過 OpenAI 的 GPT-3 模型，將輸入的文字翻譯成目標語言，支持 OCR 和跨平台（Mac、Windows、Linux、Chrome） | [URL](https://github.com/yetone/openai-translator) | 免費 | ✅ | 中文 |
 | Deep L | 準確即時的翻譯工具，目前支援 31 種語言 | [URL](https://www.deepl.com/translator) | 免費/付費 | ✅ | 中文/英文 |
 
 ### 學術研究
+| ChatPDF | ChatPDF 是一個基於 GPT-3 的 AI 工具，上傳 PDF 文件後可以查詢 PDF 內容 | [URL](https://www.chatpdf.com/) | 免費/付費 | ✅ | 英文 |
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
+| Perplexity.ai | Perplexity.ai 是一個基於 GPT-3 的 AI 工具，類似 New Bing 的搜尋引擎、會附上參考結果 | [URL](https://www.perplexity.ai/) | 免費 | ✅ | 英文 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
 | Elicit | Elicit 使用語言模型幫助您自動化研究工作流程，例如文獻回顧的部分。Elicit 可以在沒有完美關鍵詞匹配的情況下找到相關論文，總結與您問題相關的論文要點 | [URL](https://elicit.org/) | 免費 | ✅ | 英文 |
 | IRIS.ai | 用於處理用戶所有研究工作。智能搜索和多種智能篩選器、閱讀列表分析、自動生成摘要，以及自主提取和系統化數據。 | [URL](https://iris.ai/) | 付費 | ✅ | 英文 |
@@ -190,6 +198,7 @@
 
 
 ## 更新
+* 2023-03-20 更新 8 項服務
 * 2023-03-19 更新 63 項服務
 * 2023-03-18 更新 8 項服務
 * 2023-03-17 更新 1 項服務
