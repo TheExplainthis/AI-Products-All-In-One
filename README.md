@@ -62,7 +62,7 @@
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | --- | --- | --- | --- | --- | --- |
 | HireBrain | 提供 Resume 的 Review 和 Scoring 服務 | [URL](https://hirebrain.song.work/) | 免費 | ✅ | 英文 |
-| explainthis 求職工具 | 基於 ChatGPT API 開發的 AI 求職工具，從簡歷到面試，讓找工作變十倍輕鬆 ResumeAI 簡歷修改| [URL](https://www.explainthis.io/zh-hans/tools) | 免費/付費 | ✅ | 中文 |
+| explainthis 求職工具 | 基於 ChatGPT API 開發的 AI 求職工具，從簡歷到面試，讓找工作變十倍輕鬆 ResumeAI 簡歷修改| [URL](https://www.explainthis.io/zh-hans/tools) | 免費 | ✅ | 中文 |
 | ResumeAI | 輸入經歷 (不限中英文)，精修出英文版本| [URL](https://www.explainthis.io/zh-hant/tools/resume-ai) | 免費 | ✅ | 中文/英文
 | BioGenAI  | 只需輸入基本資訊 (中英文皆可以)，就自動產出一段吸引人的英文 LinkedIn 個人簡介 | [URL](https://www.explainthis.io/zh-hant/tools/biogen-ai) | 免費 | ✅ | 中文/英文
 | BehavAI | 與面試專家精煉過的語句，根據你的經驗產生面試回答 | [URL](https://www.explainthis.io/zh-hant/tools/behav-ai) | 免費 | ✅ | 中文/英文 |
