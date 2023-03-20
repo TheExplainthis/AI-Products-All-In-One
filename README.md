@@ -114,6 +114,7 @@
 ### 圖像生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
 | neural.love | 文字轉圖片工具，還提供影片和照片優化 | [URL](https://neural.love/) | 免費/付費 | ✅ | 英文 |
 | Midjourney | 輸入文字生成圖片 | [URL](https://www.midjourney.com/) | 免費/付費 | ✅ | 英文 |
 | AutoDraw | Autodraw 可以猜測使用者想要繪製的物體或形狀，從而讓使用者更快速地繪圖 | [URL](https://www.autodraw.com/) | 免費 | ✅ | 英文 |
