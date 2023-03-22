@@ -126,6 +126,7 @@
 ### 影音生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| Tavus | 根據你的臉與聲音，用 AI 幫你做客製化影片，省去做影片的時間 | [URL](https://www.tavus.io/) | 付費 | ✅ | 英文 |
 | Runway | AI 影片編輯、AI 文字生成圖片 | [URL](https://runwayml.com/) | 免費/付費 | ✅ | 英文 |
 | Murf | 在幾分鐘內製作出工作室品質的配音。使用逼真聲音為 Podcast、影片等製作配音 | [URL](https://murf.ai/) | 免費/付費 | ✅ | 英文 |
 | synthesia | 輸入文字稿，即可生成有真人主持人的影片 | [URL](https://www.synthesia.io/) | 付費 | ✅ | 英文 |
@@ -191,6 +192,7 @@
 ### 有趣應用
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| Joy Wedding Writer’s Block | 這個 AI 助手可以幫助你產出婚禮致詞、感謝信、拒絕信等。 | [URL](https://withjoy.com/writersblock/) | 免費 | ✅ | 英文 |
 | 限時塗鴉 | Quick, draw! 是 Google 推出的一個 AI 畫圖實驗。你會在 20 秒之內畫出指定的塗案，AI 會需要辨識出你在畫什麼 | [URL](https://quickdraw.withgoogle.com/) | 免費 | ✅ | 中文/英文 |
 | Dream Interpreter AI | 這個 AI 工具可以讓你輸入夢境，並幫助你解析夢境。 | [URL](https://dreaminterpreter.ai/) | 免費 | ✅ | 中文/英文 |
 |  HOTOKE AI | 這個線上工具，結合 AI 透過佛教等觀點為使用者解答疑惑 | [URL](https://hotoke.ai/) | 免費 | ✅ | 中文/英文 |
@@ -203,7 +205,7 @@
 
 
 ## 更新
-* 2023-03-22 更新 2 項服務
+* 2023-03-22 更新 4 項服務
 * 2023-03-20 更新 9 項服務
 * 2023-03-19 更新 63 項服務
 * 2023-03-18 更新 8 項服務
