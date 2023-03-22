@@ -121,7 +121,7 @@
 | Craiyon | 文字轉圖像工具 | [URL](https://www.craiyon.com/) | 免費/付費 | ✅ | 英文 |
 | Picso | 文字轉圖像工具，可以選擇繪畫風格 | [URL](https://picso.ai/) | 免費/付費 | ✅ | 英文 |
 | visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
-
+| Microsoft Bing Image Creator | Image Creator 是一款能夠協助使用者運用 DALL-E 技術創造 AI 影像的產品。使用者只需輸入文字提示，AI 系統即可立即生成一組符合提示內容的影像 | [URL](https://www.bing.com/images/create) | 免費 | ✅ | 中文/英文 |
 
 ### 影音生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
@@ -171,7 +171,7 @@
 | ChatGPT for VSCode | 透過結合 VS Code 和 ChatGPT 的方式，使用者可以得到 AI 提供的程式設計指引，包括程式碼解釋、偵錯等功能 | [URL](https://github.com/mpociot/chatgpt-vscode) | 免費 | ✅ | 英文 |
 | Codeium | Codeium 自動化生成程式碼。它支援超過 40 種語言，且仍在不斷擴充中。 | [URL](https://codeium.com/) | 免費/付費 | ✅ | 英文 |
 | SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
-
+| Cursor | 使用 GPT-4，在一種新型編輯器中撰寫、編輯的程式碼 | [URL](https://www.cursor.so/) | 免費 | ✅ | 英文 |
 
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
@@ -203,6 +203,7 @@
 
 
 ## 更新
+* 2023-03-22 更新 2 項服務
 * 2023-03-20 更新 9 項服務
 * 2023-03-19 更新 63 項服務
 * 2023-03-18 更新 8 項服務
