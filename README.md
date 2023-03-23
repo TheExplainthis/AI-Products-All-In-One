@@ -84,8 +84,7 @@
 | Deep L Write | 英文、德文寫作工具，可以及時修正寫作錯誤、改寫句子。 | [URL](https://www.deepl.com/write) |  免費/付費 | ✅ | 英文/中文 |
 | quillbot | 使用 QuillBot 改寫，有兩種免費模式和五種高級模式可供選擇，可以提高文章的流暢度、使用適當的詞彙、語氣和風格 | [URL](https://quillbot.com/) | 免費/付費 | ✅ | 英文 |
 | Wordtune | 可用於重新編寫、改述和改寫用戶的寫作，還可用於文章、學術論文、電子郵件和任何其他在線內容 | [URL](https://www.wordtune.com/) | 免費/付費 | ✅ | 英文 |
-| Sudowrite | 散文、小說、劇本為目的的小說寫作工具，協助作家生成或完善世界觀、角色與場景細節、劇情編排 | [URL](https://www.sudowrite.com/pricing) | 付費 | ✅ | 英文 |
-
+| Sudowrite | 散文、小說、劇本為目的的小說寫作工具，協助作家生成或完善世界觀、角色與場景細節、劇情編排 | [URL](https://www.sudowrite.com/) | 付費 | ✅ | 英文 |
 
 
 ### 文案生成
