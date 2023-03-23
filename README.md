@@ -93,6 +93,7 @@
 | Jasper | 文案生成：包含廣告、社群貼文、Email 等 | [URL](https://www.jasper.ai/) | 付費 | ✅ | 英文 |
 | anyword | 文案內容分析優化 | [URL](https://anyword.com/) | 付費 | ✅ | 英文 |
 | peppertype | 提供多種樣本，再結合 AI 技術，讓你可以快速地生成所需的內容 | [URL](https://www.peppertype.ai/) | 付費 | ✅ | 英文 |
+| Hypotenuse AI | 從生成行銷用的廣告標語、商品敘述，也能根據不同的平台生成最適合的廣告文本 | [URL](https://zh.hypotenuse.ai/) | 付費 | ✅ | 中文/英文 |
 
 
 ### PPT 生成
@@ -187,7 +188,7 @@
 | Elicit | Elicit 使用語言模型幫助您自動化研究工作流程，例如文獻回顧的部分。Elicit 可以在沒有完美關鍵詞匹配的情況下找到相關論文，總結與您問題相關的論文要點 | [URL](https://elicit.org/) | 免費 | ✅ | 英文 |
 | IRIS.ai | 用於處理用戶所有研究工作。智能搜索和多種智能篩選器、閱讀列表分析、自動生成摘要，以及自主提取和系統化數據。 | [URL](https://iris.ai/) | 付費 | ✅ | 英文 |
 | Perplexity.ai | Perplexity.ai 是一個基於 GPT-3 的 AI 工具，類似 New Bing 的搜尋引擎、會附上參考結果 | [URL](https://www.perplexity.ai/) | 免費 | ✅ | 英文 |
-| HUMATA| 提供技術文件或論文，對話詢問文件的內容並會同時標注是根據哪些段落得到的結果（中文提問會中文回應） | [URL](https://www.humata.ai/) | 付費 | ✅ | 英文 |
+| HUMATA| 提供技術文件或論文，對話詢問文件的內容並會同時標注是根據哪些段落得到的結果（中文提問會中文回應） | [URL](https://www.humata.ai/) | 免費/付費 | ✅ | 英文 |
 
 
 
