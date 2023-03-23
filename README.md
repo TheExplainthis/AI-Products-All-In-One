@@ -196,7 +196,7 @@
 | 限時塗鴉 | Quick, draw! 是 Google 推出的一個 AI 畫圖實驗。你會在 20 秒之內畫出指定的塗案，AI 會需要辨識出你在畫什麼 | [URL](https://quickdraw.withgoogle.com/) | 免費 | ✅ | 中文/英文 |
 | Dream Interpreter AI | 這個 AI 工具可以讓你輸入夢境，並幫助你解析夢境。 | [URL](https://dreaminterpreter.ai/) | 免費 | ✅ | 中文/英文 |
 |  HOTOKE AI | 這個線上工具，結合 AI 透過佛教等觀點為使用者解答疑惑 | [URL](https://hotoke.ai/) | 免費 | ✅ | 中文/英文 |
-
+|  AI Dungein | AI生成隨機內容的文字冒險遊戲，根據你的回應影響接下來的劇情！ | [URL](https://play.aidungeon.io/main/home) | 免費 | ✅ | 英文 |
 
 ### 學習成長
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
