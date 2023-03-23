@@ -127,7 +127,7 @@
 | Picso | 文字轉圖像工具，可以選擇繪畫風格 | [URL](https://picso.ai/) | 免費/付費 | ✅ | 英文 |
 | visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
 | Microsoft Bing Image Creator | Image Creator 是一款能夠協助使用者運用 DALL-E 技術創造 AI 影像的產品。使用者只需輸入文字提示，AI 系統即可立即生成一組符合提示內容的影像 | [URL](https://www.bing.com/images/create) | 免費 | ✅ | 中文/英文 |
-| DALL·E | OpenAI的文字生成圖片工具，也擅長將圖擴寫在原本圖像的範圍外延伸作畫 | 免費 | ✅ | 英文 |
+| DALL·E | OpenAI的文字生成圖片工具，也擅長將圖擴寫在原本圖像的範圍外延伸作畫 | [URL](https://openai.com/product/dall-e-2) | 免費 | ✅ | 英文 |
 
 
 ### 影音生成
@@ -204,8 +204,8 @@
 | Joy Wedding Writer’s Block | 這個 AI 助手可以幫助你產出婚禮致詞、感謝信、拒絕信等。 | [URL](https://withjoy.com/writersblock/) | 免費 | ✅ | 英文 |
 | 限時塗鴉 | Quick, draw! 是 Google 推出的一個 AI 畫圖實驗。你會在 20 秒之內畫出指定的塗案，AI 會需要辨識出你在畫什麼 | [URL](https://quickdraw.withgoogle.com/) | 免費 | ✅ | 中文/英文 |
 | Dream Interpreter AI | 這個 AI 工具可以讓你輸入夢境，並幫助你解析夢境。 | [URL](https://dreaminterpreter.ai/) | 免費 | ✅ | 中文/英文 |
-|  HOTOKE AI | 這個線上工具，結合 AI 透過佛教等觀點為使用者解答疑惑 | [URL](https://hotoke.ai/) | 免費 | ✅ | 中文/英文 |
-|  AI Dungeon | AI生成隨機內容的文字冒險遊戲，根據你的回應影響接下來的劇情！ | [URL](https://play.aidungeon.io/main/home) | 免費 | ✅ | 英文 |
+| HOTOKE AI | 這個線上工具，結合 AI 透過佛教等觀點為使用者解答疑惑 | [URL](https://hotoke.ai/) | 免費 | ✅ | 中文/英文 |
+| AI Dungeon | AI生成隨機內容的文字冒險遊戲，根據你的回應影響接下來的劇情！ | [URL](https://play.aidungeon.io/main/home) | 免費 | ✅ | 英文 |
 
 ### 學習成長
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
