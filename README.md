@@ -52,7 +52,7 @@
 | Otter | 會議錄音、重點整理、自動生成逐字檔 | [URL](https://otter.ai/) | 免費/付費 | ✅ | 英文 |
 | genei | 是一提升生產力的工具，只需提出問題，Genei的AI 就能為用戶找到答案，還提供了 AI 強化的摘要和關鍵詞提取功能，幫助用戶更快地找到關鍵信息 | [URL](https://www.genei.io/) | 付費 | ✅ | 英文 |
 | Writely | 在 Browser 上取代 Notion.ai 的工具 | [URL](https://github.com/anc95/writely) | 免費 | ✅ | 英文 |
-
+| MacWhisper | 能幫音檔或影片在本機生成逐字稿與字幕格式的文字檔，輸入支援mp3、wav、m4a、mp4，輸出支援txt、csv、srt、vtt，支援100多種語言與即時編輯。(Mac) | [URL](https://wumanzoo.com/macwhisper/) | 免費/付費 | ✅ | 中文/英文 |
 
 ### Email 助手
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
