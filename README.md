@@ -30,6 +30,8 @@
 | ChatGPT 指令大全 | 提供完整的 ChatGPT 指令 | [URL](https://www.explainthis.io/zh-hant/chatgpt) | 免費 | ✅ | 中文/英文 |
 | ChatGPT Prompt Genius | 這是一款免費、開源的瀏覽器擴展程式，可幫助你發現、分享、匯入和使用最佳的 ChatGPT prompts，並可將您的聊天記錄本地保存，以便日後查看。 | [URL](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) | 免費 | ✅ | 英文 |
 | WebChatGPT：有網路存取功能的 ChatGPT | 這個免費的擴充套件將相關的網絡結果添加到您對 ChatGPT 的提示中，以獲得更準確和最新的對話。 | [URL](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) | 免費 | ✅ | 中文/英文 |
+| PromptPerfect | 根據你的要求將用於GPT或AI繪圖工具的Prompt內容更精準或更豐富，創造更好的AI生成作品 | [URL](https://promptperfect.jina.ai/) | 免費/付費 | ✅ | 中文/英文 |
+
 
 
 ### 文件處理
@@ -93,7 +95,7 @@
 | Jasper | 文案生成：包含廣告、社群貼文、Email 等 | [URL](https://www.jasper.ai/) | 付費 | ✅ | 英文 |
 | anyword | 文案內容分析優化 | [URL](https://anyword.com/) | 付費 | ✅ | 英文 |
 | peppertype | 提供多種樣本，再結合 AI 技術，讓你可以快速地生成所需的內容 | [URL](https://www.peppertype.ai/) | 付費 | ✅ | 英文 |
-| Hypotenuse AI | 從生成行銷用的廣告標語、商品敘述，也能根據不同的平台生成最適合的廣告文本 | [URL](https://zh.hypotenuse.ai/) | 付費 | ✅ | 中文/英文 |
+| Hypotenuse AI | 生成行銷用的廣告標語、商品敘述，也能根據不同的平台生成最適合的廣告文本 | [URL](https://zh.hypotenuse.ai/) | 付費 | ✅ | 中文/英文 |
 
 
 ### PPT 生成
