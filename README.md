@@ -128,6 +128,8 @@
 | Picso | 文字轉圖像工具，可以選擇繪畫風格 | [URL](https://picso.ai/) | 免費/付費 | ✅ | 英文 |
 | visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
 | Microsoft Bing Image Creator | Image Creator 是一款能夠協助使用者運用 DALL-E 技術創造 AI 影像的產品。使用者只需輸入文字提示，AI 系統即可立即生成一組符合提示內容的影像 | [URL](https://www.bing.com/images/create) | 免費 | ✅ | 中文/英文 |
+| DALL·E | OpenAI的文字生成圖片工具，也擅長將圖擴寫在原本圖像的範圍外延伸作畫 | 免費 | ✅ | 英文 |
+
 
 ### 影音生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
