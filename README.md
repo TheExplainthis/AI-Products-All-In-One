@@ -98,7 +98,7 @@
 ### PPT 生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | --- | --- | --- | --- | --- | --- |
-| Tome | 使用圖文生成出 PTT | [URL](https://beta.tome.app/) | 付費 | ✅ | 英文 |
+| Tome | 使用圖文生成出 PPT | [URL](https://beta.tome.app/) | 付費 | ✅ | 英文 |
 | Beautiful.ai | 簡單輸入指令，即可生成圖文並茂的 PPT | [URL](http://beautiful.ai/) | 付費 | ✅ | 英文 |
 | 智能 PPT | 線上利用 ChatGPT 完成簡報 | [URL](https://aippt.wps.cn/welcome) | 免費 | ⛔️ | 中文 |
 
