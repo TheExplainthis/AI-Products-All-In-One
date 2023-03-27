@@ -132,6 +132,7 @@
 | synthesia | 輸入文字稿，即可生成有真人主持人的影片 | [URL](https://www.synthesia.io/) | 付費 | ✅ | 英文 |
 | Fliki | 將文字轉為影音、並加上 AI 的音訊 | [URL](https://fliki.ai/) | 免費/付費 | ✅ | 英文 |
 | capsho | Capsho是專為專業播客製作的。指教練、顧問、服務提供商等，透過 AI 生成集數介紹、節目摘要、社媒標題，等內容 | [URL](https://www.capsho.com/) | 付費 | ✅ | 英文 |
+| Descript | 功能的影片和 Podcast 編輯軟體，功能包括將音頻轉錄成文本、像編輯文檔一樣輕鬆編輯影片、螢幕錄製等。申請 waitlist 也可以試用到 GPT-4 的功能。 | [URL](https://www.descript.com/) | 免費/付費 | ✅ | 英文 |
 
 
 ### 品牌生成
@@ -173,6 +174,7 @@
 | Codeium | Codeium 自動化生成程式碼。它支援超過 40 種語言，且仍在不斷擴充中。 | [URL](https://codeium.com/) | 免費/付費 | ✅ | 英文 |
 | SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
 | Cursor | 使用 GPT-4，在一種新型編輯器中撰寫、編輯的程式碼 | [URL](https://www.cursor.so/) | 免費 | ✅ | 英文 |
+| replit - Ghostwriter | 線上 IDE replit 推出的 Ghostwriter，透過 AI 幫助你寫程式，並且可以幫助你找到錯誤。 | [URL](https://replit.com/site/ghostwriter) | 免費/付費 | ✅ | 英文 |
 
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
@@ -205,6 +207,7 @@
 
 
 ## 更新
+* 2023-03-27 更新 2 項服務
 * 2023-03-22 更新 4 項服務
 * 2023-03-20 更新 9 項服務
 * 2023-03-19 更新 63 項服務
