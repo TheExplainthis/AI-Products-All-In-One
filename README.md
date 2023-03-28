@@ -122,16 +122,18 @@
 | Craiyon | 文字轉圖像工具 | [URL](https://www.craiyon.com/) | 免費/付費 | ✅ | 英文 |
 | Picso | 文字轉圖像工具，可以選擇繪畫風格 | [URL](https://picso.ai/) | 免費/付費 | ✅ | 英文 |
 | visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
-
+| Microsoft Bing Image Creator | Image Creator 是一款能夠協助使用者運用 DALL-E 技術創造 AI 影像的產品。使用者只需輸入文字提示，AI 系統即可立即生成一組符合提示內容的影像 | [URL](https://www.bing.com/images/create) | 免費 | ✅ | 中文/英文 |
 
 ### 影音生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| Tavus | 根據你的臉與聲音，用 AI 幫你做客製化影片，省去做影片的時間 | [URL](https://www.tavus.io/) | 付費 | ✅ | 英文 |
 | Runway | AI 影片編輯、AI 文字生成圖片 | [URL](https://runwayml.com/) | 免費/付費 | ✅ | 英文 |
 | Murf | 在幾分鐘內製作出工作室品質的配音。使用逼真聲音為 Podcast、影片等製作配音 | [URL](https://murf.ai/) | 免費/付費 | ✅ | 英文 |
 | synthesia | 輸入文字稿，即可生成有真人主持人的影片 | [URL](https://www.synthesia.io/) | 付費 | ✅ | 英文 |
 | Fliki | 將文字轉為影音、並加上 AI 的音訊 | [URL](https://fliki.ai/) | 免費/付費 | ✅ | 英文 |
 | capsho | Capsho是專為專業播客製作的。指教練、顧問、服務提供商等，透過 AI 生成集數介紹、節目摘要、社媒標題，等內容 | [URL](https://www.capsho.com/) | 付費 | ✅ | 英文 |
+| Descript | 功能的影片和 Podcast 編輯軟體，功能包括將音頻轉錄成文本、像編輯文檔一樣輕鬆編輯影片、螢幕錄製等。申請 waitlist 也可以試用到 GPT-4 的功能。 | [URL](https://www.descript.com/) | 免費/付費 | ✅ | 英文 |
 
 
 ### 品牌生成
@@ -172,7 +174,8 @@
 | ChatGPT for VSCode | 透過結合 VS Code 和 ChatGPT 的方式，使用者可以得到 AI 提供的程式設計指引，包括程式碼解釋、偵錯等功能 | [URL](https://github.com/mpociot/chatgpt-vscode) | 免費 | ✅ | 英文 |
 | Codeium | Codeium 自動化生成程式碼。它支援超過 40 種語言，且仍在不斷擴充中。 | [URL](https://codeium.com/) | 免費/付費 | ✅ | 英文 |
 | SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
-
+| Cursor | 使用 GPT-4，在一種新型編輯器中撰寫、編輯的程式碼 | [URL](https://www.cursor.so/) | 免費 | ✅ | 英文 |
+| replit - Ghostwriter | 線上 IDE replit 推出的 Ghostwriter，透過 AI 幫助你寫程式，並且可以幫助你找到錯誤。 | [URL](https://replit.com/site/ghostwriter) | 免費/付費 | ✅ | 英文 |
 
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
@@ -192,6 +195,7 @@
 ### 有趣應用
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
+| Joy Wedding Writer’s Block | 這個 AI 助手可以幫助你產出婚禮致詞、感謝信、拒絕信等。 | [URL](https://withjoy.com/writersblock/) | 免費 | ✅ | 英文 |
 | 限時塗鴉 | Quick, draw! 是 Google 推出的一個 AI 畫圖實驗。你會在 20 秒之內畫出指定的塗案，AI 會需要辨識出你在畫什麼 | [URL](https://quickdraw.withgoogle.com/) | 免費 | ✅ | 中文/英文 |
 | Dream Interpreter AI | 這個 AI 工具可以讓你輸入夢境，並幫助你解析夢境。 | [URL](https://dreaminterpreter.ai/) | 免費 | ✅ | 中文/英文 |
 |  HOTOKE AI | 這個線上工具，結合 AI 透過佛教等觀點為使用者解答疑惑 | [URL](https://hotoke.ai/) | 免費 | ✅ | 中文/英文 |
@@ -204,6 +208,8 @@
 
 
 ## 更新
+* 2023-03-27 更新 2 項服務
+* 2023-03-22 更新 4 項服務
 * 2023-03-20 更新 9 項服務
 * 2023-03-19 更新 63 項服務
 * 2023-03-18 更新 8 項服務
