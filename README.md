@@ -9,7 +9,6 @@
 - [求職面試](#求職面試)
 - [寫作工具](#寫作工具)
 - [文案生成](#文案生成)
-- [文字轉語音](#文字轉語音)
 - [PPT 生成](#ppt-生成)
 - [重點整理](#重點整理)
 - [圖像生成](#圖像生成)
@@ -31,7 +30,7 @@
 | ChatGPT 指令大全 | 提供完整的 ChatGPT 指令 | [URL](https://www.explainthis.io/zh-hant/chatgpt) | 免費 | ✅ | 中文/英文 |
 | ChatGPT Prompt Genius | 這是一款免費、開源的瀏覽器擴展程式，可幫助你發現、分享、匯入和使用最佳的 ChatGPT prompts，並可將您的聊天記錄本地保存，以便日後查看。 | [URL](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) | 免費 | ✅ | 英文 |
 | WebChatGPT：有網路存取功能的 ChatGPT | 這個免費的擴充套件將相關的網絡結果添加到您對 ChatGPT 的提示中，以獲得更準確和最新的對話。 | [URL](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) | 免費 | ✅ | 中文/英文 |
-| TalkGuidance | 這是一個基於GPT的螢幕閱讀器，它可以幫助視力障礙人士了解網站的上的元素，並指導他們與網站互動。 | [URL](https://chrome.google.com/webstore/detail/talkguidancegpt/bjfkdkgfaondbkddpifljpgbleilmljg) | 免費 | ✅ | 中文/英文/日语等 |
+| TalkGuidance | 這是一個基於 GPT 的螢幕閱讀器，它可以幫助視力障礙人士了解網站的上的元素，並指導他們與網站互動。 | [URL](https://chrome.google.com/webstore/detail/talkguidancegpt/bjfkdkgfaondbkddpifljpgbleilmljg) | 免費 | ✅ | 中文/英文/日语等 |
 
 
 ### 文件處理
@@ -50,7 +49,7 @@
 | Fireflies | 可將會議紀錄的內容或是課堂上的內容，錄音、轉為文字檔，還有總結、記筆記等功能 | [URL](https://fireflies.ai/) | 免費/付費 | ✅ | 英文 |
 | mem | 自動化整合你所有的工具 | [URL](https://get.mem.ai/) | 免費/付費 | ✅ | 英文 |
 | Otter | 會議錄音、重點整理、自動生成逐字檔 | [URL](https://otter.ai/) | 免費/付費 | ✅ | 英文 |
-| genei | 是一提升生產力的工具，只需提出問題，Genei的AI 就能為用戶找到答案，還提供了 AI 強化的摘要和關鍵詞提取功能，幫助用戶更快地找到關鍵信息 | [URL](https://www.genei.io/) | 付費 | ✅ | 英文 |
+| genei | 是一提升生產力的工具，只需提出問題，Genei 的 AI 就能為用戶找到答案，還提供了 AI 強化的摘要和關鍵詞提取功能，幫助用戶更快地找到關鍵信息 | [URL](https://www.genei.io/) | 付費 | ✅ | 英文 |
 | Writely | 在 Browser 上取代 Notion.ai 的工具 | [URL](https://github.com/anc95/writely) | 免費 | ✅ | 英文 |
 
 
@@ -96,11 +95,6 @@
 | anyword | 文案內容分析優化 | [URL](https://anyword.com/) | 付費 | ✅ | 英文 |
 | peppertype | 提供多種樣本，再結合 AI 技術，讓你可以快速地生成所需的內容 | [URL](https://www.peppertype.ai/) | 付費 | ✅ | 英文 |
 
-### 文字轉語音
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Speechify | 將文字轉成語音，幫你讀出文章內容，支援多國語言與多種聲音 | [URL](https://speechify.com/) | 付費 | ✅ | 中文/英文 |
-| Play.ht | 透過 AI，產生你自己的聲音，讓 AI 用你的聲音來講述任何內容 | [URL](https://play.ht/) | 付費 | ✅ | 英文 |
 
 ### PPT 生成
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
@@ -138,7 +132,7 @@
 | Murf | 在幾分鐘內製作出工作室品質的配音。使用逼真聲音為 Podcast、影片等製作配音 | [URL](https://murf.ai/) | 免費/付費 | ✅ | 英文 |
 | synthesia | 輸入文字稿，即可生成有真人主持人的影片 | [URL](https://www.synthesia.io/) | 付費 | ✅ | 英文 |
 | Fliki | 將文字轉為影音、並加上 AI 的音訊 | [URL](https://fliki.ai/) | 免費/付費 | ✅ | 英文 |
-| capsho | Capsho是專為專業播客製作的。指教練、顧問、服務提供商等，透過 AI 生成集數介紹、節目摘要、社媒標題，等內容 | [URL](https://www.capsho.com/) | 付費 | ✅ | 英文 |
+| capsho | Capsho 是專為專業播客製作的。指教練、顧問、服務提供商等，透過 AI 生成集數介紹、節目摘要、社媒標題，等內容 | [URL](https://www.capsho.com/) | 付費 | ✅ | 英文 |
 | Descript | 功能的影片和 Podcast 編輯軟體，功能包括將音頻轉錄成文本、像編輯文檔一樣輕鬆編輯影片、螢幕錄製等。申請 waitlist 也可以試用到 GPT-4 的功能。 | [URL](https://www.descript.com/) | 免費/付費 | ✅ | 英文 |
 
 
@@ -161,7 +155,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Andi | 準確、無廣告且注重隱私的人工智慧搜尋聊天機器人。Andi 不僅提供連結，還會直接回答的問題 | [URL](https://andisearch.com/) | 免費 | ✅ | 英文 |
 | Poe | Poe 讓您可以提問、獲得即時答案，並且與人工智慧進行來回對話 | [URL](https://poe.com/login) | 免費 | ✅ | 英文 |
-| character.ai | Character.ai是一個神經語言模型聊天機器人網絡應用程式，可以生成類似人類的文本回復，並結合上下文進行對話 | [URL](https://beta.character.ai/) | 免費 | ✅ | 英文 |
+| character.ai | Character.ai 是一個神經語言模型聊天機器人網絡應用程式，可以生成類似人類的文本回復，並結合上下文進行對話 | [URL](https://beta.character.ai/) | 免費 | ✅ | 英文 |
 | Typing Mind | 功能是基於 ChatGPT，但這個工具 UI 更加美觀易用 | [URL](https://www.typingmind.com/) | 免費/付費 | ✅ | 英文 |
 
 
@@ -182,6 +176,7 @@
 | SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
 | Cursor | 使用 GPT-4，在一種新型編輯器中撰寫、編輯的程式碼 | [URL](https://www.cursor.so/) | 免費 | ✅ | 英文 |
 | replit - Ghostwriter | 線上 IDE replit 推出的 Ghostwriter，透過 AI 幫助你寫程式，並且可以幫助你找到錯誤。 | [URL](https://replit.com/site/ghostwriter) | 免費/付費 | ✅ | 英文 |
+| Dify | Dify 的目标是让开发者（甚至非开发者）可以快速基于大型语言模型搭建出有用的东西，并确保它是可视化、可运营、可改进的。 | [URL](https://dify.ai/) | 免費 | ✅ | 中文 / 英文 |
 
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
@@ -210,11 +205,10 @@
 ### 學習成長
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
 | ---- | ----------------------------- | --- | --- | --- | --- |
-| JCAI | 利用AI當你的英文家教老師，能練習英文口說和聽力。在你對話的同時，文法魔法棒能讓你知道怎樣更好的表達，結束後也有該堂課聊過能背的片語。 | [URL](https://jcai.tw/) | 付費 | ✅ | 中文 |
+| JCAI | 利用 AI 當你的英文家教老師，能練習英文口說和聽力。在你對話的同時，文法魔法棒能讓你知道怎樣更好的表達，結束後也有該堂課聊過能背的片語。 | [URL](https://jcai.tw/) | 付費 | ✅ | 中文 |
 
 
 ## 更新
-* 2023-04-07 更新 2 項服務
 * 2023-03-27 更新 2 項服務
 * 2023-03-22 更新 4 項服務
 * 2023-03-20 更新 9 項服務
