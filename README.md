@@ -73,6 +73,7 @@
 | ResignAI | 幫你寫出一封體面且不失專業的離職信 | [URL](https://www.explainthis.io/zh-hant/tools/resign-ai) | 免費 | ✅ | 中文/英文 |
 | CoffeeChatAI | 在 LinkedIn 上約人喝咖啡請教職涯問題、建立人脈的邀請訊息生成 | [URL](https://www.explainthis.io/zh-hant/tools/coffeechat-ai) | 免費 | ✅ | 中文/英文 |
 | HireBrain | 提供 Resume 的 Review 和 Scoring 服務 | [URL](https://hirebrain.song.work/) | 免費 | ✅ | 英文 |
+| AI簡歷-求職幫手 | 新一代線上AI簡歷工具，製作高品質簡歷 | [URL](https://ai-tools.cn/resume) | 免費/付费 | ✅ | 中文 |
 
 
 ### 寫作工具
