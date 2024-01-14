@@ -163,6 +163,7 @@
 | Poe | Poe 讓您可以提問、獲得即時答案，並且與人工智慧進行來回對話 | [URL](https://poe.com/login) | 免費 | ✅ | 英文 |
 | character.ai | Character.ai是一個神經語言模型聊天機器人網絡應用程式，可以生成類似人類的文本回復，並結合上下文進行對話 | [URL](https://beta.character.ai/) | 免費 | ✅ | 英文 |
 | Typing Mind | 功能是基於 ChatGPT，但這個工具 UI 更加美觀易用 | [URL](https://www.typingmind.com/) | 免費/付費 | ✅ | 英文 |
+| Dear AI | 可以替代客服的24小时在线AI聊天机器人，只需嵌入网站就可以强化客户服务并提升销售 | [URL](https://www.dearai.online/) | 免費/付費 | ✅ | 英文 |
 
 
 ### 搜尋引擎
