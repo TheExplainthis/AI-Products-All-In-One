@@ -32,6 +32,7 @@
 | ChatGPT Prompt Genius | 這是一款免費、開源的瀏覽器擴展程式，可幫助你發現、分享、匯入和使用最佳的 ChatGPT prompts，並可將您的聊天記錄本地保存，以便日後查看。 | [URL](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) | 免費 | ✅ | 英文 |
 | WebChatGPT：有網路存取功能的 ChatGPT | 這個免費的擴充套件將相關的網絡結果添加到您對 ChatGPT 的提示中，以獲得更準確和最新的對話。 | [URL](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) | 免費 | ✅ | 中文/英文 |
 | TalkGuidance | 這是一個基於GPT的螢幕閱讀器，它可以幫助視力障礙人士了解網站的上的元素，並指導他們與網站互動。 | [URL](https://chrome.google.com/webstore/detail/talkguidancegpt/bjfkdkgfaondbkddpifljpgbleilmljg) | 免費 | ✅ | 中文/英文/日语等 |
+| Drive AI | 人工智慧汽車助理預測路線，提供即時警報，確保乘坐更安全、更順暢。 | [URL](https://driveapp.ai/) | 英文 | ✅ | 中文/英文 |
 
 
 ### 文件處理
