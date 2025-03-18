@@ -182,6 +182,8 @@
 | SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
 | Cursor | 使用 GPT-4，在一種新型編輯器中撰寫、編輯的程式碼 | [URL](https://www.cursor.so/) | 免費 | ✅ | 英文 |
 | replit - Ghostwriter | 線上 IDE replit 推出的 Ghostwriter，透過 AI 幫助你寫程式，並且可以幫助你找到錯誤。 | [URL](https://replit.com/site/ghostwriter) | 免費/付費 | ✅ | 英文 |
+| Fynix | Fynix 使用 AI 提供实时编码辅助和自动化代码审查 | [URL](https://www.fynix.ai/) |免费/付费 | ✅ | 英文
+
 
 ### 翻譯工具
 | 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
