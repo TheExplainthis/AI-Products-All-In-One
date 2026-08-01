@@ -199,6 +199,7 @@
 | 限時塗鴉 | Quick, draw! 是 Google 推出的一個 AI 畫圖實驗。你會在 20 秒之內畫出指定的塗案，AI 會需要辨識出你在畫什麼 | [URL](https://quickdraw.withgoogle.com/) | 免費 | ✅ | 中文/英文 |
 | Dream Interpreter AI | 這個 AI 工具可以讓你輸入夢境，並幫助你解析夢境。 | [URL](https://dreaminterpreter.ai/) | 免費 | ✅ | 中文/英文 |
 |  HOTOKE AI | 這個線上工具，結合 AI 透過佛教等觀點為使用者解答疑惑 | [URL](https://hotoke.ai/) | 免費 | ✅ | 中文/英文 |
+| Lumora Storybooks | 上傳一張照片，為孩子創作一本專屬插畫繪本。 | [URL](https://lumora.kids?utm_source=ai-products-all-in-one) | 免費/付費 | ✅ | 中文/英文 |
 
 
 ### 學習成長
