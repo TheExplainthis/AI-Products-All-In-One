@@ -132,6 +132,7 @@
 | Murf | 在幾分鐘內製作出工作室品質的配音。使用逼真聲音為 Podcast、影片等製作配音 | [URL](https://murf.ai/) | 免費/付費 | ✅ | 英文 |
 | synthesia | 輸入文字稿，即可生成有真人主持人的影片 | [URL](https://www.synthesia.io/) | 付費 | ✅ | 英文 |
 | Fliki | 將文字轉為影音、並加上 AI 的音訊 | [URL](https://fliki.ai/) | 免費/付費 | ✅ | 英文 |
+| videos.social | 將部落格、PDF 或提示轉成可編輯的無臉影片（腳本、場景、旁白） | [URL](https://videos.social/?utm_source=ai-products-all-in-one&utm_medium=directory&utm_campaign=listing-wave-d) | 免費/付費 | ✅ | 英文 |
 | capsho | Capsho是專為專業播客製作的。指教練、顧問、服務提供商等，透過 AI 生成集數介紹、節目摘要、社媒標題，等內容 | [URL](https://www.capsho.com/) | 付費 | ✅ | 英文 |
 | Descript | 功能的影片和 Podcast 編輯軟體，功能包括將音頻轉錄成文本、像編輯文檔一樣輕鬆編輯影片、螢幕錄製等。申請 waitlist 也可以試用到 GPT-4 的功能。 | [URL](https://www.descript.com/) | 免費/付費 | ✅ | 英文 |
 
