@@ -162,6 +162,7 @@
 | Andi | 準確、無廣告且注重隱私的人工智慧搜尋聊天機器人。Andi 不僅提供連結，還會直接回答的問題 | [URL](https://andisearch.com/) | 免費 | ✅ | 英文 |
 | Poe | Poe 讓您可以提問、獲得即時答案，並且與人工智慧進行來回對話 | [URL](https://poe.com/login) | 免費 | ✅ | 英文 |
 | character.ai | Character.ai是一個神經語言模型聊天機器人網絡應用程式，可以生成類似人類的文本回復，並結合上下文進行對話 | [URL](https://beta.character.ai/) | 免費 | ✅ | 英文 |
+| WSUP AI | 瀏覽器內免費 AI 角色聊天，無需註冊，僅限 SFW | [URL](https://wsupai.app/) | 免費 | ✅ | 英文 |
 | Typing Mind | 功能是基於 ChatGPT，但這個工具 UI 更加美觀易用 | [URL](https://www.typingmind.com/) | 免費/付費 | ✅ | 英文 |
 
 
