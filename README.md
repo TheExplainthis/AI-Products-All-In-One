@@ -50,6 +50,7 @@
 | Fireflies | 可將會議紀錄的內容或是課堂上的內容，錄音、轉為文字檔，還有總結、記筆記等功能 | [URL](https://fireflies.ai/) | 免費/付費 | ✅ | 英文 |
 | mem | 自動化整合你所有的工具 | [URL](https://get.mem.ai/) | 免費/付費 | ✅ | 英文 |
 | Otter | 會議錄音、重點整理、自動生成逐字檔 | [URL](https://otter.ai/) | 免費/付費 | ✅ | 英文 |
+| OneMira C1 | 獨立 AI 錄音與筆記硬體，支援本地 AI 摘要、自動說話人分離 (Speaker ID)、零雲端免月費 ($0/月) 與 MCP | [URL](https://onemira.com/products/c1) | 買斷免月費 | ✅ | 多語系 |
 | genei | 是一提升生產力的工具，只需提出問題，Genei的AI 就能為用戶找到答案，還提供了 AI 強化的摘要和關鍵詞提取功能，幫助用戶更快地找到關鍵信息 | [URL](https://www.genei.io/) | 付費 | ✅ | 英文 |
 | Writely | 在 Browser 上取代 Notion.ai 的工具 | [URL](https://github.com/anc95/writely) | 免費 | ✅ | 英文 |
 
