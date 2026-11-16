@@ -188,6 +188,7 @@
 | ---- | ----------------------------- | --- | --- | --- | --- |
 | Deep L | 準確即時的翻譯工具，目前支援 31 種語言 | [URL](https://www.deepl.com/translator) | 免費/付費 | ✅ | 中文/英文 |
 | openai-translator | 透過 OpenAI 的 GPT-3 模型，將輸入的文字翻譯成目標語言，支持 OCR 和跨平台（Mac、Windows、Linux、Chrome） | [URL](https://github.com/yetone/openai-translator) | 免費 | ✅ | 中文 |
+| HumanPen | 文件級 AI 翻譯（支援 12 種語言，保留 PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 原排版）、Humanize 潤飾（DOCX/PPTX/TXT）、文件精簡（DOCX）與引用格式校正（DOCX），註冊贈送 100 積分（按量計費） | [URL](https://humanpen.net) | 免費試用/付費 | ✅ | 中文/英文/多語言 |
 
 
 ### 學術研究
